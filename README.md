@@ -22,5 +22,3 @@ Then, add dependencies.
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
-If you any trouble, create ticket.
