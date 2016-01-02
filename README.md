@@ -8,17 +8,15 @@ Simply. Add to `pom.xml`.
 
     <repositories>
         <repository>
-            <id>hokuyo-java-lib-mvn-repo</id>
-            <url>https://github.com/dev-hokuyo/hokuyo-java-lib/raw/mvn-repo</url>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
         </repository>
     </repositories>
 
 Then, add dependencies.
 
-    <dependencies>
-        <dependency>
-            <groupId>hokuyo</groupId>
-            <artifactId>hokuyo-lib</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <dependency>
+        <groupId>com.github.SuderPawel</groupId>
+        <artifactId>hokuyo-java-lib</artifactId>
+        <version>0.1</version>
+    </dependency>
