@@ -16,7 +16,7 @@ Simply. Add to `pom.xml`.
 Then, add dependencies.
 
     <dependency>
-        <groupId>com.github.SuderPawel</groupId>
+        <groupId>com.github.pasuder</groupId>
         <artifactId>hokuyo-java-lib</artifactId>
         <version>0.1</version>
     </dependency>
